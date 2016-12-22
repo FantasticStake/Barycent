@@ -1,4 +1,5 @@
 # Barycent
+![Barycent Prototype](http://files.m0z.me/githubimg/barycent-top.png "Barycent Prototype")
 今後のとあるプロジェクトで使う予定のフォントです☆
 ## ABOUT
 よくあるコンデンスなかんじのフォントです。なお、このフォントを使用したことによるトラブル等については**一切の責任を負いません**。
